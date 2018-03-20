@@ -1,5 +1,5 @@
 {
-  "name": "drupal/votingapi_widgets",
+  "name": "thinktandem/votingapi_widgets",
   "type": "drupal-module",
   "description": "Voting API Widgets",
   "keywords": ["Drupal"],
